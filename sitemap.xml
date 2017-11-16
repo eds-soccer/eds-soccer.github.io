@@ -7,47 +7,58 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.edssoccer.com/</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/camps.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/camps.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/index.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/index.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/about.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/about.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/calendar.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/calendar.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/clinics.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/clinics.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/onetoone.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/onetoone.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/teamsupport.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/teamsupport.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/becomecoach.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/becomecoach.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/contact.html</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/contact.html</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.edssoccer.com/sponsorshipoptions.pdf</loc>
-  <lastmod>2017-11-11T16:57:54+00:00</lastmod>
+  <loc>http://edssoccer.com/sponsorshipoptions.pdf</loc>
+  <lastmod>2017-11-16T14:53:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 </urlset>
